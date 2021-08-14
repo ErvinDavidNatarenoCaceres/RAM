@@ -1,0 +1,97 @@
+.imagen-ram{
+    display: flex;
+    flex-direction: column;
+}
+.section-button{
+    display: block;
+    background-color: darkseagreen;
+    width: 375px;
+    height: 15px;
+    text-align:center; 
+    border-radius: 15px;
+}
+.section.text{
+    width: 375p;
+    height: auto;
+}
+.section-RAM{
+    display: block;
+    background-color: darkseagreen;
+    width: 375px;
+    height: 15px;
+    text-align:center; 
+    border-radius: 15px;   
+}
+.primeraram{
+    max-width: 375px;   
+}
+.imagen1{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.textoSRAM{
+    text-align: center;
+}
+.imagen2{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.textoDRAM{
+    text-align: center;
+}
+.imagen3{
+     display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.textoSDRAM{
+    text-align: center;
+}
+.imagen4{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.textoSDR{
+    text-align: center;
+}
+.imagen5{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.textoDDR{
+    text-align: center;
+}
+.imagen6{
+     display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.textoGDDR{
+    text-align: center;
+}
+.imagen7{
+     display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.textoHBM{
+    text-align: center;
+}
