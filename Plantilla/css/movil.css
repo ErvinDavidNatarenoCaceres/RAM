@@ -31,6 +31,7 @@
     width: 100%;
     padding-top: 5rem;
     padding-bottom: 5rem;
+    width: 375px;
 }
 .textoSRAM{
     text-align: center;
@@ -41,6 +42,7 @@
     width: 100%;
     padding-top: 5rem;
     padding-bottom: 5rem;
+    width: 375px;
 }
 .textoDRAM{
     text-align: center;
@@ -51,6 +53,7 @@
     width: 100%;
     padding-top: 5rem;
     padding-bottom: 5rem;
+    width: 375px;
 }
 .textoSDRAM{
     text-align: center;
@@ -61,6 +64,7 @@
     width: 100%;
     padding-top: 5rem;
     padding-bottom: 5rem;
+    width: 375px;
 }
 .textoSDR{
     text-align: center;
@@ -71,6 +75,7 @@
     width: 100%;
     padding-top: 5rem;
     padding-bottom: 5rem;
+    width: 375px;
 }
 .textoDDR{
     text-align: center;
@@ -81,6 +86,7 @@
     width: 100%;
     padding-top: 5rem;
     padding-bottom: 5rem;
+    width: 375px;
 }
 .textoGDDR{
     text-align: center;
@@ -91,6 +97,7 @@
     width: 100%;
     padding-top: 5rem;
     padding-bottom: 5rem;
+    width: 375px;
 }
 .textoHBM{
     text-align: center;
